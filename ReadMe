@@ -1,0 +1,3 @@
+Simple userscript that adds a textbox for setting a "status" on Slack.
+
+The status is set by changing the user's last name. Their entire name is moved into the first name field.
